@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <router-view/>
+    <a-button type="primary">Button></a-button>
   </div>
 </template>
 
