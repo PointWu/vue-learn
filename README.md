@@ -20,8 +20,4 @@ npm run build --report
 
 ## In the developing
 
-```bash
-# install dependencies
-基础
-
-```
+- 组件库 Ant Design 
